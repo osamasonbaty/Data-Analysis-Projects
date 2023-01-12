@@ -1,7 +1,9 @@
 # Data Analysis Projects
 Showcasing different projects I've done as Jupyter Notebooks
+[Project 1](#proj1)
 
 ## Projects:
+<a id='proj1'></a>
 ### [1- Medical Appointments Exploratory Data Analysis](https://github.com/osamasonbaty/Data-Analysis-Projects/blob/main/Medical%20Appointments%20EDA/Medical_Appointments_Analysis.ipynb)
 Description: Analyzed a dataset of medical appointments to find correlations between
 appointment/patient factors and whether or not they showed up for the appointment.
