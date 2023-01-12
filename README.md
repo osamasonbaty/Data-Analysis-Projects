@@ -7,4 +7,11 @@ Description: Analyzed a dataset of medical appointments to find correlations bet
 appointment/patient factors and whether or not they showed up for the appointment.
 
 Skills:
-- Data Wrangling - Data Cleaning - Exploratory Data Analysis - Data Visualization
+- Data Wrangling
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+
+Libraries:
+- Pandas
+- Matplotlib
