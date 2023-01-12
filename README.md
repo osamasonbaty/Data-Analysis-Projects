@@ -1,2 +1,2 @@
-# Data-Analysis-Projects
-My Data Analysis Portfolio
+# Data Analysis Projects
+Showcasing different projects I've done as Jupyter Notebooks
